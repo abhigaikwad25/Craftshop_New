@@ -1,0 +1,7 @@
+.container{
+    height:150px;
+    border:2px solid black;
+    text-align: center;
+    margin:5px;
+    background-color: aquamarine;
+}

@@ -1,0 +1,52 @@
+.main-page{
+    
+}
+
+.heading{
+    padding: 10px;
+    text-align: center;
+}
+
+.image{
+    padding: 50px;
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+.image button{
+    border-radius: 100px;
+}
+
+#img1{
+    border-radius: 100px ;
+    padding: 10px;
+    width: 200px;
+}
+
+#img1:hover{
+    cursor: pointer;
+    background-color: black;
+}
+
+.score{
+    margin: 100px 400px 80px 400px;
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+}
+
+.result{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    /* margin-left: 770px; */
+}
+
+.resindicator{
+    padding: 10px;
+    height: 60px;
+    border-radius: 4px;
+}
